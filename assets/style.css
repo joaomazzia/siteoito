@@ -1,0 +1,33 @@
+/* classe formatando imagem da ferrari*/
+.lindo {
+    border-radius: 20px;
+}
+
+/* classe formatando div com conteudo*/
+.conteudo {
+    width: 200px;
+    height: 200px;
+    border: 2px solid brown; 
+    margin: 30px;
+    background-color: darkcyan;
+    display: inline-block;
+}
+
+
+    .jf {
+        width: 200px;
+        height: 200px;
+        border: 2px solid sandybrown;
+        margin: 30px;
+        background-color: violet;
+        display: inline-block;
+    }
+
+    .carro {
+        width: 200px;
+        height: 200px;
+        border: 2px solid red;
+        margin: 30px;
+        background-color: grey;
+        display: inline-block;
+        }
